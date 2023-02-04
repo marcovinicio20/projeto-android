@@ -71,8 +71,6 @@ body{
 }
 main{
     background-color: white;
-    min-width: 300px;
-    max-width: 1000px;
     margin: auto;
     padding: 20px;
     border-bottom-left-radius: 10px;
