@@ -70,7 +70,7 @@ body{
     padding-top: 40px;
 }
 main{
-    background-color: white;
+    background-color: rgb(255, 240, 240);
     padding: 20px;
     min-width: 300px;
     max-width: 1000px;
