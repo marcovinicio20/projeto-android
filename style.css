@@ -108,10 +108,15 @@ span{
 .s2{
     background-color: rgb(190, 255, 190);
 }
-img{
+main img{
+    width: 100%;
     display: block;
-    margin:auto
-    
+    margin:auto   
+}
+.bug{
+    width: 50%;
+    display: block;
+    margin: auto;
 }
 .embed-container {
     position: relative;
